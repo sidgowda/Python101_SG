@@ -3,3 +3,5 @@ new_dict = {}
 for key, value in a_dict.items():
     new_dict[value] = key
 new_dict
+
+#changes made in local copy
